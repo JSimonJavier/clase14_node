@@ -95,6 +95,18 @@
   ! instalar git
   -> comandos de git
     -> git init
-    -> 
+    -> git add .
+    -> git add index.html
+    -> git status
+    -> git commit -m "mensaje"
+    ?-> git push -u origin master
+
+    => buenas practicas con commits
+      - usar verbos que describa la accion: agregar, cambiar, remover
+      - corto y conciso
+      - agregar un prefijo (chore: para realizar tareas - fix: para arreglar bugs)
+        ej git commit -m "chore: remover el search de la navbar"
+
+  *-> github 
 */
 
