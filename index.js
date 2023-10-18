@@ -108,5 +108,18 @@
         ej git commit -m "chore: remover el search de la navbar"
 
   *-> github -> proporciona una interfaz web facil de usar que se integra con git, lo que hace mas facil para las desarrolladores colaborar en proyecto y compartir codigos con otros
+
+? LA TERMINAL
+  -> es una herramienta que nos permite interactuar con nuestra computadora utilizando comandos de teto donde podemos ingresar comando y recibir respuesta o ejecutar progamas
+  -> VSC terminal -> nos permite ejecutar comandos directamente desde el edito de codigo
+  -> La terminal es escencial para los desarrolladores de software, ya que permite compilar, ejecutar y debuggerar programas directamente desde la linde comandos
+  -> algunos son:
+    -dir: muestra una lista de los archivos actuales
+    -mkdir: crea una nueva carpeta
+    -cd: nos movemos de una carpeta a otra, para volver a atras es cd ..
+    -touch: crear un archivo
+    -rm: permite eliminar archivos o directorios
+
 */
 
+console.log("Hola estamos en las dos terminales");
