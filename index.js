@@ -107,6 +107,6 @@
       - agregar un prefijo (chore: para realizar tareas - fix: para arreglar bugs)
         ej git commit -m "chore: remover el search de la navbar"
 
-  *-> github 
+  *-> github -> proporciona una interfaz web facil de usar que se integra con git, lo que hace mas facil para las desarrolladores colaborar en proyecto y compartir codigos con otros
 */
 
